@@ -1,5 +1,5 @@
 .logo{
-  background-color: cyan;
+  background-color: rgb(189, 255, 124);
         height: 300px;
 width:1600px ;
 font-size: 20px;
@@ -8,13 +8,13 @@ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans
     text-align: center;
 }
 .menu{
- background-color: powderblue;
+background-color: rgba(255, 68, 0, 0.795);
     height: 105px;;
     width: 1600px;
 display: flex;
 }
 .boton{
-  background-color: orangered;
+  background-color: rgba(0, 255, 157, 0.836);
     height: 100px;
     width: 100px;
     margin: 1.5px;
@@ -36,16 +36,16 @@ display: flex;
 .izquierdo{
    background-color: rgb(255, 255, 72);
    width: 250px;
-   height: 2300px;
+   height: 3500px;
 }
 .centro{
    background-color: palegreen;
     width: 1400px; ;
-height: 2300px;
+height: 3500px;
 }
 .derecho{
     width: 250px;
-    height: 2300px;
+    height: 3500px;
 background-color: rgb(255, 255, 72);
 }
 p{
