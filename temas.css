@@ -64,3 +64,9 @@ text-align: center;
   height: 350px;
   width: 650px;
 }
+.cb{  height: 650px;
+    width: 950px;
+    background-image: url("imagen\ google.webp");
+    background-repeat: no-repeat; 
+    float: right;
+}
