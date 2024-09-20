@@ -70,3 +70,9 @@ text-align: center;
     background-repeat: no-repeat; 
     float: right;
 }
+.imagen{  height: 650px;
+     width: 1300px;
+     background-image: url("imagen\ circuitos\ electronicos.webp");
+     background-repeat: no-repeat;
+     float: right;
+}
